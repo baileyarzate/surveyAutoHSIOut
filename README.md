@@ -1,7 +1,7 @@
 # HSI Survey Analysis Tool
 The HSI Survey Analysis Tool is designed to simplify the process of analyzing Human Systems Integration (HSI) surveys. It provides an intuitive and user-friendly interface for selecting surveys, inputting data, and generating actionable results. Whether you're working with manual data entry or importing from .csv or .xlsx files, this tool streamlines the process and ensures accurate, relevant outputs tailored to your specific survey.
 
-![alt text](https://github.com/baileyarzate/surveyAutoHSIOut/tree/main/images?raw=true "Title")
+![screenshot](https://github.com/baileyarzate/surveyAutoHSIOut/tree/main/images/image.png)
 
 ## Features
 - Survey Selection: Choose from a variety of pre-configured HSI surveys to match your data collection needs.
